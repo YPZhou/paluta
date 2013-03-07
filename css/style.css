@@ -1,0 +1,161 @@
+div, p, h1, h3, h4, h5, ul, li, a
+{
+    margin:0;
+	padding:0;
+}
+
+ul, li
+{
+	list-style:none;
+}
+
+a
+{
+    text-decoration:none;
+}
+
+a:link
+{
+	color:#B8C8E8;
+}
+
+a:visited
+{
+	color:#B8C8E8;
+}
+
+a:hover
+{
+	color:#F8F8F8;	
+}
+
+a:active
+{
+	color:#F8F8F8;
+}
+
+body
+{
+	font-family:arial, "Times New Roman", Times, serif;
+	font-size:12px;
+	background-color:#224455;
+	color:#B8C8E8;
+}
+
+div.header
+{
+	width: 50%;
+	float: left;
+}
+
+div.content
+{
+	width: 50%;
+	float: right;
+}
+
+div.title
+{
+
+}
+
+div.navi
+{
+
+}
+
+div.newline
+{
+	width: 100%;
+	clear: both;
+}
+
+div.left
+{
+	width: 50%;
+	float: left;
+}
+
+div.right
+{
+	width: 50%;
+	float: right;
+}
+
+#container
+{
+    margin:0 auto;
+}
+
+#works
+{
+	float:right;
+}
+
+#works p
+{
+	margin-left:3px;
+	font-size:10px;
+}
+
+#works a.actuel
+{
+	font-weight:bolder;
+}
+
+#works a.normal
+{
+	font-weight:normal;
+}
+
+#content
+{
+	
+}
+
+#title
+{
+	clear:both;
+}
+
+#intro
+{
+	
+}
+
+#intro h4
+{
+	margin-top:80px;	
+}
+
+#intro p
+{
+	margin-left:8px;
+}
+
+#download
+{
+	
+}
+
+#download h4
+{
+	margin-top:30px;	
+}
+
+#download ul
+{
+	margin-left:8px;
+}
+
+#home
+{
+	margin-top:30px;
+	font-weight:bold;
+}
+
+#footer
+{
+	position:fixed;
+	bottom:8px;
+}

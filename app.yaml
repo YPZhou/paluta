@@ -17,5 +17,5 @@ handlers:
   static_files: favicon.ico
   upload: favicon.ico
 
-- url: /
+- url: /.*
   script: _go_app

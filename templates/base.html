@@ -1,12 +1,30 @@
 <!DOCTYPE html>
 <html>
 <header>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<link rel="stylesheet" type="text/css" href="/css/style.css"></link>
+
 	<title>
 		Paluta Project
 	</title>
 </header>
 <body>
-	<h1>Paluta Project</h1>
-	<p>Site under construction</p>
+	<div class="header">
+		<div class="title">
+			<h1>Paluta Project</h1>
+		</div>
+		<div class="navi">
+			<ul>
+				<li><a href="/home">首页</a></li>
+				<!--<li><a href="/galery">项目截图</a></li>-->
+				<li>项目截图</li>
+				<li><a href="/progress">项目进度</a></li>
+				<li><a href="/join">加入项目</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="content">
+		{{template "content"}}
+	</div>
 </body>
 </html>
