@@ -45,40 +45,43 @@ body
 
 div.header
 {
-	width: 50%;
+	width: 35%;
 	float: left;
 }
 
 div.content
 {
-	width: 50%;
+	width: 55%;
 	float: right;
 }
 
 div.title
 {
-
+	margin-top: 50px;
+	margin-left: 25px;
 }
 
 div.navi
 {
-
+	margin-top: 75px;
+	margin-left: 25px;
 }
 
 div.newline
 {
+	padding-top: 75px;
 	width: 100%;
 	clear: both;
 }
 
 div.left
 {
-	width: 50%;
+	width: 15%;
 	float: left;
 }
 
 div.right
 {
-	width: 50%;
+	width: 85%;
 	float: right;
 }
