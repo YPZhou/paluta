@@ -69,8 +69,8 @@ div.navi
 
 div.newline
 {
-	padding-top: 45px;
-	padding-bottom: 300px;
+	padding-top: 75px;
+	/*padding-bottom: 300px;*/
 	width: 100%;
 	clear: both;
 }
@@ -85,4 +85,9 @@ div.right
 {
 	width: 85%;
 	float: right;
+}
+
+img
+{
+	padding-bottom: 30px;
 }
