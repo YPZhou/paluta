@@ -69,7 +69,8 @@ div.navi
 
 div.newline
 {
-	padding-top: 75px;
+	padding-top: 45px;
+	padding-bottom: 300px;
 	width: 100%;
 	clear: both;
 }
